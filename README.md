@@ -17,5 +17,7 @@ https://forms.gle/Qjzrbu5hToWyMPYN6
 
 https://forms.gle/X1grbGzdhkSPhdsg9
 
-![image](https://github.com/user-attachments/assets/82d7e09c-7b74-493b-b5ef-294ba0fd50b2)
+Quiz 3 Lead Board
+![image](https://github.com/user-attachments/assets/b44cf85e-3c7e-41a1-9ec8-c0ad949c9350)
+
 
