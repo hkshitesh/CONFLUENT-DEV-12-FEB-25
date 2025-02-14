@@ -21,3 +21,7 @@ Quiz 3 Lead Board
 ![image](https://github.com/user-attachments/assets/b44cf85e-3c7e-41a1-9ec8-c0ad949c9350)
 
 
+ kafka-topics --bootstrap-server kafka:9092 --describe --topic driver-positions-avro
+
+
+
